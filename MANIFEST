@@ -134,13 +134,9 @@ README.pod
 t/000.basic.t
 t/910.meta.t
 t/990.pod.t
-<<<<<<< HEAD
 t/bc/input.t
 t/cat/cat.t
 t/cp/gh-115-copy-into-dir.t
-=======
-t/cat/cat.t
->>>>>>> briandfoy/redo-testing-linux
 t/data/cat/cat-n-1.txt
 t/data/nl/nl.txt
 t/data/rev/reverse-this.txt
